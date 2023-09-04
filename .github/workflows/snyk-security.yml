@@ -20,9 +20,9 @@ name: Snyk Security
 
 on:
   push:
-    branches: ["githp", "apistudio", "appcenter", "datastudio", "dockerdev", "dotnet", "gh-pages", "main", "projects", "smartspaces"]
+    branches: ["githp", "documaker", "apistudio", "appcenter", "datastudio", "dockerdev", "dotnet", "gh-pages", "main", "projects", "smartspaces"]
   pull_request:
-    branches: ["githp"]
+    branches: ["ghpages"]
 
 permissions:
   contents: read
