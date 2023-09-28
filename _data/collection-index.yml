@@ -405,13 +405,13 @@
   ociReference: ghcr.io/favalos/devcontainer-features
 - name: Community Templates
   maintainer: devcontainers-community
-  contact: https://github.com/devcontainers-community/templates/issues
-  repository: https://github.com/devcontainers-community/templates
+  contact: https://github.com/orgs/devcontainers-community/discussions
+  repository: https://github.com/devcontainers-community
   ociReference: ghcr.io/devcontainers-community/templates
 - name: Community Features
   maintainer: devcontainers-community
-  contact: https://github.com/devcontainers-community/features/issues
-  repository: https://github.com/devcontainers-community/features
+  contact: https://github.com/orgs/devcontainers-community/discussions
+  repository: https://github.com/devcontainers-community
   ociReference: ghcr.io/devcontainers-community/features
 - name: Community npm Features
   maintainer: devcontainers-community
@@ -548,3 +548,33 @@
   contact: https://github.com/robbert229/devcontainer-features/issues
   repository: https://github.com/robbert229/devcontainer-features
   ociReference: ghcr.io/robbert229/devcontainer-features
+- name: AliuQ Templates
+  maintainer: AliuQ
+  contact: https://github.com/aliuq/devcontainers/issues
+  repository: https://github.com/aliuq/devcontainers
+  ociReference: ghcr.io/aliuq/devcontainers
+- name: Nordcom Group Inc.'s Dev Container Features
+  maintainer: Filiph Siitam Sandström
+  contact: https://github.com/NordcomInc/devcontainer-features/issues
+  repository: https://github.com/NordcomInc/devcontainer-features
+  ociReference: ghcr.io/nordcominc/devcontainer-features
+- name: Features by Maxim Slipenko
+  maintainer: Maxim Slipenko
+  contact: https://github.com/Maks1mS/devcontainers-features/issues
+  repository: https://github.com/Maks1mS/devcontainers-features
+  ociReference: ghcr.io/maks1ms/devcontainers-features
+- name: Container Structure Tests
+  maintainer: Ty Schlichenmeyer
+  contact: https://github.com/schlich/cst-devcontainer-feature/issues
+  repository: https://github.com/schlich/cst-devcontainer-feature
+  ociReference: ghcr.io/schlich/cst-devcontainer-feature
+- name: Features by raucha
+  maintainer: raucha
+  contact: https://github.com/raucha/devcontainer-features/issues
+  repository: https://github.com/raucha/devcontainer-features
+  ociReference: ghcr.io/raucha/devcontainer-features
+- name: LINO PIMO SIGO Toolbox
+  maintainer: CGI France
+  contact: https://github.com/CGI-FR/lino-devcontainer/issues
+  repository: https://github.com/CGI-FR/lino-devcontainer/
+  ociReference: ghcr.io/cgi-fr/lino-devcontainer
