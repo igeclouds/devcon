@@ -2,7 +2,7 @@
 
 This repo holds the website for the [Development Containers Specification](https://igeclouds.github.io/devcontainers/spec).
 
-You may view the site at [containers.igecloud](https://igeclouds.dev/containers).
+You may view the site at [containers.igecloud](https://igeclouds.github.io/devcontainers.github.io/).
 
 ## Building
 
